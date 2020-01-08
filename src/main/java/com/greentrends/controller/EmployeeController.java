@@ -26,7 +26,7 @@ public class EmployeeController {
 
 	/**
 	 * 
-	 * POST /emp/create Host: http://localhost:8080/ 
+	 * POST green/emp/create Host: http://localhost:8080/ 
 	 * Accept: application/json,text/javascript
 	 * 
 	 * @param employee in JSON
